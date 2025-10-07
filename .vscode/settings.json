@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 30,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Vesper"
+}
