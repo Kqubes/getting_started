@@ -1,2 +1,0 @@
-from distance_convert_v3 import miles_converter
-miles_converter(33)
